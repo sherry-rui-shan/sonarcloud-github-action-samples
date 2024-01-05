@@ -20,8 +20,6 @@
     <sonar.organization>sonarsource</sonar.organization>
     <sonar.projectKey>SonarSource_sonarcloud-github-action-samples</sonar.projectKey>
      -->
-    <sonar.organization>sherry-rui-shan</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencies>
