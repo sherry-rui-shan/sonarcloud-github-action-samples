@@ -6,3 +6,4 @@ Configuration depends on the build tool:
 * See the [`maven` branch](https://github.com/sonarsource/sonarcloud-github-action-samples/tree/maven) for Maven projects.
 * See the [`generic` branch](https://github.com/sonarsource/sonarcloud-github-action-samples/tree/generic) for projects that use other build tools (PHP, Python, COBOL, PL/SQL, ...). 
 1
+2
