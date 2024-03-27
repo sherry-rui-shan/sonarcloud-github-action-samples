@@ -8,3 +8,4 @@ Configuration depends on the build tool:
 1
 2
 3
+5
